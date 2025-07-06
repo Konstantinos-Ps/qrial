@@ -1,1 +1,1 @@
-export const WebsiteURL = "http://localhost:5173";
+export const WebsiteURL = "https://qrial.vercel.app/";
