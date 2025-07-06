@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin '@tailwindcss/typography';
+
+::selection {
+    background: #34d399;
+}
